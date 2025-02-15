@@ -34,7 +34,7 @@ To set up and run the recommendation system locally, follow these steps:
 ## User Interface Preview
 Here is a preview of the recommendation system interface:
 
-![Movie Recommendation UI Home Page]([screenshots/ui_preview.png](https://github.com/pragatigupta7/Recommendation_Movies/blob/main/Home.png))
+![Movie Recommendation UI Home Page](https://github.com/pragatigupta7/Recommendation_Movies/blob/main/Home.png)
 ![Recommendation](https://github.com/pragatigupta7/Recommendation_Movies/blob/main/output2.png)
 
 ##### Contact
