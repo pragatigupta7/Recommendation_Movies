@@ -31,11 +31,14 @@ To set up and run the recommendation system locally, follow these steps:
 3. Scikit-Learn (TF-IDF vectorization & similarity calculation)
 4. NLTK (Text preprocessing)
 5. Flask / Streamlit (For deploying as a web app, optional)
+## User Interface Preview
+Here is a preview of the recommendation system interface:
 
-
+![Movie Recommendation UI Home Page]([screenshots/ui_preview.png](https://github.com/pragatigupta7/Recommendation_Movies/blob/main/Home.png))
+![Recommendation](https://github.com/pragatigupta7/Recommendation_Movies/blob/main/output2.png)
 
 ##### Contact
-For any inquiries, reach out via email at 7621pragatigupta@gmail.com or visit the GitHub repository at GitHub Link.
+For any inquiries, reach out via email at 7621pragatigupta@gmail.com or visit the GitHub repository at [GitHub Link](https://github.com/pragatigupta7/Recommendation_Movies/tree/main).
   
   
 
